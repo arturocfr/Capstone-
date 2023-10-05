@@ -5,10 +5,18 @@
   }
 }
 .logo h3{
+  font-style: normal;
   color: #3300ff;
   font-size: 3rem;
   font-weight: bold;
   text-transform: uppercase;
   user-select: none;
-  color: var(--color-first);
+  color: #3300ff !important; 
+}
+
+#mare{
+  background-image:url(https://www.focusjunior.it/content/uploads/2015/06/mare-blu.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  object-fit: cover;
 }
