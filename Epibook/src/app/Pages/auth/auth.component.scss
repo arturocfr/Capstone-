@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Roboto&display=swap');
 .button-container{
   button{
     box-shadow: 0 0 5px #3300ff;
@@ -5,10 +6,11 @@
   }
 }
 .logo h3{
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
   color: #3300ff;
-  font-size: 3rem;
-  font-weight: bold;
+  font-size: 4rem;
+  font-weight: bolder;
   text-transform: uppercase;
   user-select: none;
   color: #3300ff !important; 
